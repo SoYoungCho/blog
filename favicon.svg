@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .tile { fill: #141414; }
+    .mark { fill: #ffffff; }
+  </style>
+  <rect class="tile" width="32" height="32" rx="9.6"/>
+  <rect class="mark" x="8" y="10" width="16" height="4" rx="2"/>
+  <rect class="mark" x="8" y="18" width="10" height="4" rx="2"/>
+</svg>
