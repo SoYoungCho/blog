@@ -1,0 +1,14 @@
+# soyoung.log
+
+> AI를 일에 써본 경험, 업무 기록, 일과 삶에 대한 생각을 남겨요. 조소영의 한국어 블로그예요.
+
+- 글쓴이: 조소영 (https://soyoungcho.github.io/blog/about/)
+- 전체 글 본문: https://soyoungcho.github.io/blog/llms-full.txt
+- RSS: https://soyoungcho.github.io/blog/rss.xml
+
+## AI 활용
+
+AI 도구로 직접 만들고 써본 기록
+
+- [노션에 쓰면 알아서 올라가는 블로그, 바이브 코딩으로 만들기](https://soyoungcho.github.io/blog/posts/notion-blog/) (2026년 10월 30일): 댓글, 메일 알림, 대시보드, SEO까지 클로드로 무료로 만들어본 후기
+- [코딩 한 줄 없이 만든 ‘빼먹어도 괜찮은 일기 앱’](https://soyoungcho.github.io/blog/posts/diary-app/) (2026년 10월 27일): 클로드 코드로 기능 구현해가며 느낀 점
